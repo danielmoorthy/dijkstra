@@ -1,0 +1,13 @@
+Munchen, Ingolstadt, 80
+Munchen, Augsburg, 68
+Munchen, Straubing, 141
+Ingolstadt, Nurnberg, 95
+Ingolstadt, Straubing, 124
+Straubing, Nurnberg, 159
+Nurnberg, Wurzburg, 109
+Wurzburg, Frankfurt am Main, 119
+Augsburg, Ulm, 8
+Augsburg, Ingolstadt, 84
+Ulm, Stuttgart, 92
+Stuttgart, Heidelberg, 120
+Heidelberg, Frankfurt am Main, 92
